@@ -1,0 +1,24 @@
+1. Data Aggregation
+(Collect data on something to sell to AI companies)
+(Create datasets for data analysis companies, user submits address they want to scrape we take the data and send it as a dataset)
+
+2. Sellify
+(Reselling platform bassicaly ebay)
+
+
+3. BlockChain
+(Those who know)
+
+4. Game
+(Could be in Roblox)
+(Engine such as Unity, or Godot)
+(Make it from code)
+
+5. Best Fishing Spots
+(Do some sort of user generated plan)
+(Or curated)
+
+6. Universal File Conveter
+(Ease of use as people know trusted site to handle all conversion needs)
+
+7. 
